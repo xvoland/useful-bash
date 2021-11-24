@@ -1,7 +1,9 @@
 > #### ATTENTION: won't work in non-Bash environments like Alpine Linux. Alpine, as a minimalistic system, uses lightweight ash
 
-Full template script:
+
 <details>
+	<summary><b>🛠️&nbsp;&nbsp;Full template script:</b></summary>
+  <br/>
 
 ```bash
 #!/usr/bin/env bash
