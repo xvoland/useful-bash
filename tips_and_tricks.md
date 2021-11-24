@@ -96,7 +96,7 @@ msg "- arguments: ${args[*]-}"
 ---
 
 
-### Get path
+## Get Path
 This line tries to determine the directory where the script is located.
 Often our scripts work along relative paths from the location of the script itself.
 
@@ -112,7 +112,7 @@ but it is much better to solve this problem on the script side
 cat "$script_dir/my_file"
 ```
 
-### Clean envirement
+## Clean Envirement
 
 At the end of the script's work - on normal completion, or due to an error or an external signal - the `cleanup()` function will be executed
 
@@ -126,7 +126,7 @@ cleanup() {
 ```
 
 
-### Displaying help information
+## Displaying Help Information
 
 We display help information for a user who wants to know all the possible and necessary parameters for launching scripts:
 
@@ -143,7 +143,7 @@ EOF
 }
 ```
 
-### Nice color message display
+## Nice Color Message Display
 
 The `msg()` function is designed to print messages that are not directly output from the script
 
@@ -166,7 +166,7 @@ Example of use:
 msg "This is a ${RED}very important${NOFORMAT} message, but not a script output value!"
 ```
 
-### Parsing Parameters
+## Parsing Parameters
 
 ```bash
 parse_params() {
