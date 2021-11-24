@@ -8,10 +8,11 @@ Some useful functions for bash witch can be use in Bash.
 | [Bash template](tips_and_tricks.md)  | `tips_and_tricks.md`              |
 | [Scanning ports](nmap-scan-ports.sh) | `./nmap-scan-ports  <ip address>` |
 
-
-# Useful to read
+# Useful To Read
 
 * [Command line arguments anatomy CLI](https://betterdev.blog/command-line-arguments-anatomy-explained/)
+* [Command Line Interface Guidelines](https://clig.dev/)
+* [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46)
 
 # Funding
 Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
