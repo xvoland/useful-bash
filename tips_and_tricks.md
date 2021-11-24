@@ -93,6 +93,9 @@ msg "- arguments: ${args[*]-}"
 
 </details>
 
+---
+
+
 ### Get path
 This line tries to determine the directory where the script is located.
 Often our scripts work along relative paths from the location of the script itself.
@@ -121,6 +124,7 @@ cleanup() {
   # script cleanup here
 }
 ```
+
 
 ### Displaying help information
 
