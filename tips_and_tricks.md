@@ -1,5 +1,6 @@
-ATTENTION: won't work in non-Bash environments like Alpine Linux. Alpine, as a minimalistic system, uses lightweight ash
+> #### ATTENTION: won't work in non-Bash environments like Alpine Linux. Alpine, as a minimalistic system, uses lightweight ash
 
+Full template script:
 <details>
 
 ```bash
