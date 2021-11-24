@@ -1,6 +1,7 @@
 ATTENTION: won't work in non-Bash environments like Alpine Linux. Alpine, as a minimalistic system, uses lightweight ash
 
 <details>
+
 ```bash
 #!/usr/bin/env bash
 
