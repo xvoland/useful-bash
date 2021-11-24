@@ -9,6 +9,10 @@ Some useful functions for bash witch can be use in Bash.
 | [Scanning ports](nmap-scan-ports.sh) | `./nmap-scan-ports  <ip address>` |
 
 
+# Useful to read
+
+* [Command line arguments anatomy CLI](https://betterdev.blog/command-line-arguments-anatomy-explained/)
+
 # Funding
 Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
 
