@@ -6,7 +6,7 @@ Some useful functions for bash witch can be use in Bash.
 | Description    | Usage                             |
 | -------------- | --------------------------------- |
 | [Bash template](tips_and_tricks.md)  | `tips_and_tricks.md`              |
-| Scanning ports | `./nmap-scan-ports  <ip address>` |
+| [Scanning ports](nmap-scan-ports.sh) | `./nmap-scan-ports  <ip address>` |
 
 
 # Funding
