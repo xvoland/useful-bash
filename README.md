@@ -10,6 +10,8 @@ Some useful functions for bash witch can be use in Bash.
 | [Scanning ports](nmap-scan-ports.sh) | `./nmap-scan-ports  <ip address>` |
 | [Matrix](matrix.md)  | `matrix.md`              |
 | [GIT](git.md)  | `git.md`              |
+| [MYFUNCTIONS](.functions)  | `.functions`              |
+
 
 
 
