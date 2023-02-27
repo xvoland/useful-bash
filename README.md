@@ -11,6 +11,8 @@ Some useful functions for bash witch can be use in Bash.
 | [Matrix](matrix.md)  | `matrix.md`              |
 | [GIT](git.md)  | `git.md`              |
 | [MYFUNCTIONS](.functions)  | `.functions`              |
+| [ffmpeg](ffmpeg.sh) | `./ffmpeg.sh` |
+
 
 
 
